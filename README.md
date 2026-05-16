@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Mikhail</h1>
 <h3 align="center">Python and Machine Learning enthusiast focused on applied AI, LLMs, Agentic AI, data analysis, geospatial intelligence, and automation.</h3>
+
 - Master's student at [ITMO University](https://ai.itmo.ru/) | 23 y.o.
 - I’m currently working on [GeoVerdict.AI](https://github.com/Mixlazer/GeoVerdict.AI)
 - Languages: Russian (native), English (C1)
