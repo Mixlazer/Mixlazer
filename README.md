@@ -1,28 +1,44 @@
-# Hi, I'm Mixlazer
+<h1 align="center">Hi, I'm Mikhail</h1>
+<h3 align="center">Python and Machine Learning enthusiast focused on applied AI, LLMs, Agentic AI, data analysis, geospatial intelligence, and automation.</h3>
 
-Python and Machine Learning enthusiast focused on applied AI, LLMs, Agentic AI, data analysis, geospatial intelligence, and automation.
+- I’m currently working on [GeoVerdict.AI](https://github.com/Mixlazer/GeoVerdict.AI)
+- Languages: Russian (native), English (C1)
+- How to reach me: [Telegram](https://t.me/mixlizer) · [mixlizer@gmail.com](mailto:mixlizer@gmail.com)
 
-## Repositories
+## Featured Projects
 
 | Repository | Description |
 | --- | --- |
 | [GeoVerdict.AI](https://github.com/Mixlazer/GeoVerdict.AI) | AI-powered location intelligence assistant for evaluating store placement using traffic and competition data. |
 | [Federated-learning-for-blood-flow-control-in-ECMO-systems](https://github.com/Mixlazer/Federated-learning-for-blood-flow-control-in-ECMO-systems) | Research project exploring federated learning methods for blood flow control in ECMO systems. |
-| [AI-Agent-System-Design](https://github.com/Mixlazer/AI-Agent-System-Design) | Experiments and prototypes for designing AI agent systems and intelligent workflows. |
-| [NLP-and-DL_course_hw](https://github.com/Mixlazer/NLP-and-DL_course_hw) | Homework and practice assignments for an ITMO course on NLP and deep learning. |
-| [Deep_learning_course_hw](https://github.com/Mixlazer/Deep_learning_course_hw) | Deep learning coursework with notebooks, experiments, and model training practice. |
-| [Leetcode-problems-solved-via-python](https://github.com/Mixlazer/Leetcode-problems-solved-via-python) | Python solutions to LeetCode problems for practicing algorithms and data structures. |
-| [Machine_learning_for_scientific_data_analysis_hw](https://github.com/Mixlazer/Machine_learning_for_scientific_data_analysis_hw) | Machine learning assignments focused on scientific data analysis and practical modeling. |
-| [ollama](https://github.com/Mixlazer/ollama) | Fork of Ollama for exploring local LLM tooling and model runtime infrastructure. |
-| [AdvancedML](https://github.com/Mixlazer/AdvancedML) | Forked reading list and reference materials for advanced machine learning topics. |
-| [dd_2025](https://github.com/Mixlazer/dd_2025) | Python project for data-driven experiments and development tasks from 2025. |
-| [SQL-50-problems-solved-via-PostgreSQL](https://github.com/Mixlazer/SQL-50-problems-solved-via-PostgreSQL) | PostgreSQL solutions to LeetCode SQL 50 problems for database query practice. |
-| [Overwatch_Randomizer](https://github.com/Mixlazer/Overwatch_Randomizer) | Lightweight web randomizer for generating Overwatch-related selections. |
-| [Itmo_bot](https://github.com/Mixlazer/Itmo_bot) | Python bot project created for ITMO-related automation and assistant workflows. |
-| [dataset-maker](https://github.com/Mixlazer/dataset-maker) | Metashape 2.11 GUI module for creating datasets from manually and automatically labeled polygons. |
-| [Python-MySQL-database-for-hospital](https://github.com/Mixlazer/Python-MySQL-database-for-hospital) | Course project implementing a hospital database system with Python and MySQL. |
-| [Mixlazer](https://github.com/Mixlazer/Mixlazer) | Profile repository containing GitHub profile configuration and personal README content. |
+| [AI-Agent-System-Design](https://github.com/Mixlazer/AI-Agent-System-Design) | Experiments and prototypes for designing LLM-powered agent systems, intelligent workflows, and LLMOps practices. |
+| [Overwatch_Randomizer](https://github.com/Mixlazer/Overwatch_Randomizer) | Lightweight web randomizer for generating Overwatch team compositions. |
 
 ## Focus Areas
 
 Python · Machine Learning · Deep Learning · LLMs · Agentic AI · NLP · Data Analysis · SQL · Geospatial AI · Automation
+
+## Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mixlazer&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mixlazer&show_icons=true&theme=dark&locale=en" alt="GitHub stats" />
+</p>
