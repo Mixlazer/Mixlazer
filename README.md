@@ -13,7 +13,7 @@
 | [GeoVerdict.AI](https://github.com/Mixlazer/GeoVerdict.AI) | AI-powered location intelligence assistant for evaluating store placement using traffic and competition data. |
 | [Federated-learning-for-blood-flow-control-in-ECMO-systems](https://github.com/Mixlazer/Federated-learning-for-blood-flow-control-in-ECMO-systems) | Research project exploring federated learning methods for blood flow control in ECMO systems. |
 | [AI-Agent-System-Design](https://github.com/Mixlazer/AI-Agent-System-Design) | Experiments and prototypes for designing LLM-powered agent systems, intelligent workflows, and LLMOps practices. |
-| [Overwatch_Randomizer](https://github.com/Mixlazer/Overwatch_Randomizer) | Lightweight web randomizer for generating Overwatch team compositions. |
+| [Overwatch_Randomizer](https://github.com/Mixlazer/Overwatch_Randomizer) | Lightweight randomizer app for generating Overwatch team compositions. |
 
 ## Focus Areas
 
